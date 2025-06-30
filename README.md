@@ -31,4 +31,4 @@ A escolha do melhor modelo dependeria do objetivo de negócio: usar um modelo ma
 
 ## 👥 Colaboração
 
-Este projeto foi desenvolvido em colaboração com [Maria Heloísa Galvão](https://github.com/mheloisagalvao).
+Este projeto foi desenvolvido em colaboração com [Maria Heloísa Galvão](https://github.com/mheloisagalvao) e Gabriel Trindade.
